@@ -13,11 +13,8 @@ CSS:
      Cascading Style Sheets is a style sheet language used to describe the presentation of HTML documents. While HTML provides the structure and content of a web page,
      CSS controls how it looks, including layout, colors, fonts, and overall visual design. It allows developers to create visually appealing and responsive web pages that
      work across various devices and screen sizes.CSS is essential for making web pages look appealing, consistent, and user-friendly. It separates content (HTML) from presentation,
-     allowing for easier maintenance, updates, and scalability. Mastering CSS gives you the ability to:
-
-                                                                                Create visually engaging web pages with custom styles.
-                                                                                Build responsive designs that work on mobile, tablet, and desktop devices.
-                                                                                Improve accessibility by designing layouts that work well with assistive technologies.
-                                                                                Enhance user experience with animations and interactive elements.
+     allowing for easier maintenance, updates, and scalability. Mastering CSS gives you the ability to Create visually engaging web pages with custom styles.
+      Build responsive designs that work on mobile, tablet, and desktop devices. Improve accessibility by designing layouts that work well with assistive technologies.
+     Enhance user experience with animations and interactive elements.
     
     Whether you're designing a simple blog or a complex web application, CSS is a crucial tool in your web development toolkit, enabling you to bring your HTML content to life.
