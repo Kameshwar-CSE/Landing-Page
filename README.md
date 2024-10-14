@@ -15,6 +15,5 @@ CSS:
      work across various devices and screen sizes.CSS is essential for making web pages look appealing, consistent, and user-friendly. It separates content (HTML) from presentation,
      allowing for easier maintenance, updates, and scalability. Mastering CSS gives you the ability to Create visually engaging web pages with custom styles.
       Build responsive designs that work on mobile, tablet, and desktop devices. Improve accessibility by designing layouts that work well with assistive technologies.
-     Enhance user experience with animations and interactive elements.
-    
-    Whether you're designing a simple blog or a complex web application, CSS is a crucial tool in your web development toolkit, enabling you to bring your HTML content to life.
+     Enhance user experience with animations and interactive elements.Whether you're designing a simple blog or a complex web application, CSS is a crucial tool in your web development toolkit,
+     enabling you to bring your HTML content to life.
